@@ -1,0 +1,112 @@
+#pg{
+	height: 350px;
+	width: 420px;
+	background: white;
+	border-radius: 5%;
+	margin-top:120px;
+	text-align: center;
+	left: 50%;
+	margin-left: -210px;
+	opacity:0.2;
+	position:absolute;
+    z-index:-1;
+}
+
+#bg{
+    background:url("../img/login.png") no-repeat;
+}
+
+#a{
+	text-align:center;
+	position:absolute;
+	left:50%;
+	margin-left:-135px;
+    margin-top: 180px;
+	height: 30px;
+	width: 270px;
+	color: black;
+	opacity:0.5;
+	-webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+	border : none;
+}
+#b{
+    text-align:center;
+    position:absolute;
+    left:50%;
+    margin-left:-135px;
+    margin-top:200px;
+	height: 30px;
+	width: 270px;
+	color: black;
+    opacity:0.5;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border : none;
+}
+#c{
+	text-align:center;
+    position:absolute;
+	width: 270px;
+	height: 30px;
+	margin-top:290px;
+	left:50%;
+	margin-left:-135px;
+	color:white;
+	background: #9e77dd;
+	border-radius: 8px;
+    -moz-border-radius: 8px;
+    border : none;
+}
+#c:hover{
+    cursor:pointer;
+}
+.forget{
+	margin-top: 260px;
+	color: black;
+	text-decoration: none;
+	float: left;
+	margin-left: 41%;
+}
+.free_zhuce{
+	margin-top: 260px;
+	color: black;
+	text-decoration: none;
+	float: left;
+	margin-left: 6%;
+}
+#bottom{
+    margin-top: 335px;
+    margin-left:46%;
+    color:white;
+}
+#p1{
+    position: absolute;
+    left:0;
+}
+#notice{
+    color:red;
+    text-align: center;
+    position: absolute;
+    left:40%;
+    margin-top:11%;
+}
+.login{
+    font-size:18px;
+    line-height:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

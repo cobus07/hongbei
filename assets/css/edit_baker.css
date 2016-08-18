@@ -1,0 +1,272 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1173px;
+	height: 1070px;
+	margin: 0 auto;
+	background: #f3f3f3;
+}
+.user-left{
+	position: absolute;
+	margin-top: 93px;
+	margin-left: 35px;
+}
+.body-right{
+	background-color: white;
+	width:830px;
+	height:900px;
+	margin-top: 93px;
+	float: right;
+	margin-right: 35px;
+}
+/*
+.right-header{
+	width:830px;
+	height:92px;
+	background-color: #f3f3f3;
+}
+*/
+#change p{
+	font-size: 20px;
+	padding-top: 22px;
+	padding-left: 24px;
+	margin-left:-20px;
+	margin-top:20px;
+	display: inline-block;/*块-行*/
+	
+}
+#change span{
+	font-size: 20px;
+	padding-top: 22px;
+	padding-left: px;
+	color:#00ffff;
+}
+
+.change_pic{
+	margin-left: 20px;
+	
+	
+}
+
+.load p{
+	padding-top: 45px;
+	font-size: 20px;
+	padding-left: 110px;
+	background-color: 0000;
+	margin-left: 20px;
+	display: inline-block;
+}
+.load span{
+	font-size: 14px;
+}
+.load input{
+	width: 170px;
+}
+.nickname{
+	padding-top: 0px;
+	padding-left: 95px;
+	font-size: 20px;
+}
+.Tel{
+	padding-top: 15px;
+	padding-left: 95px;
+	font-size: 20px;
+}
+.youxiang{
+	padding-top: 15px;
+	padding-left: 105px;
+	font-size: 20px;
+
+}
+.input{
+	height:30px;
+	padding-top: 15px;
+	padding-left: 110px;
+	font-size: 20px;
+}
+.sex{
+	padding-top: 25px;
+	padding-left: 95px;
+	font-size: 20px;
+}
+/*
+.profession{
+	padding-top: 15px;
+	padding-left: 110px;
+	font-size: 20px;
+}*/
+
+.ss{
+	width:200px;
+	height:35px;
+	/*border-radius: 5px;*/
+	font-size: 20px;
+}
+.gx{
+	padding-top: 35px;
+	padding-left: 95px;
+	font-size: 20px;
+}
+.gx input{
+	width: 305px;
+	height:55px;
+}
+
+.receiv{
+	padding-top: 25px;
+	padding-left: 95px;
+	font-size: 20px;
+}
+.receiv input{
+	width: 305px;
+	height:55px;
+}
+#bg span{
+	color: gray;
+	margin-top: 20px;
+}
+.input span{
+	font-size: 10px;
+	border-bottom: 555px;
+}
+.input .pp{
+	/*border-radius: 5px;添加圆角*/
+	font-size: 20px;
+	width:80px;
+	height:35px;
+}
+.input .ww{
+	/*border-radius: 5px;*/
+	font-size: 20px;
+	width: 60px;
+	height:35px;
+}
+#input{
+	padding-top: 10px;
+	font-size: 20px;
+	padding-left: 100px;
+}
+#input p{
+	display: inline-block;
+	font-size: 20px;
+	color:#ccc;
+}
+#input .send{
+	padding-left: 180px;
+	font-color:white;
+}
+.button{
+	padding-left: 320px;
+	padding-top: 15px;
+}
+#col{
+	padding-left: 110px;
+	font-size: 20px;
+	display: inline-block;
+}
+#col p{
+	padding-top: 25px;
+	display: inline-block;
+}
+.col{
+	padding-top: 20px;
+	display: inline-block;
+}
+#a1{
+	width:25px;
+	height:25px;
+	display: inline-block;
+	background-color: #000000;
+}
+#a2{
+	width:25px;
+	height:25px;
+	display: inline-block;
+	background-color: #00ff00;
+}
+#a3{
+	width:25px;
+	height:25px;
+	display: inline-block;
+	background-color:#00ffff;
+}
+#a4{
+	width:25px;
+	height:25px;
+	background-color: #ffff33;
+	display: inline-block;
+}
+#a5{
+	width:25px;
+	height:25px;
+	background-color: #cc6600;
+	display: inline-block;
+}
+#a6{
+	width:25px;
+	height:25px;
+	background-color: #ff0000;
+	display: inline-block;
+}
+#a7{
+	width:25px;
+	height:25px;
+	background-color: #cc0066;
+	display: inline-block;
+}
+#a8{
+	width:25px;
+	height:25px;
+	background-color: #000000;
+	display: inline-block;
+}
+#a9{
+	width:25px;
+	height:25px;
+	background-color: #00ff00;
+	display: inline-block;
+}
+#a10{
+	width:25px;
+	height:25px;
+	background-color: #00ffff;
+	display: inline-block;
+}
+#a11{
+	width:25px;
+	height:25px;
+	background-color: #ffff33;
+	display: inline-block;
+}
+#a12{
+	width:25px;
+	height:25px;
+	background-color: #cc6600;
+	display: inline-block;
+}
+#a13{
+	width:25px;
+	height:25px;
+	background-color: #ff0000;
+	display: inline-block;
+}
+#a14{
+	width:25px;
+	height:25px;
+	background-color: #cc0066;
+	display: inline-block;
+}
+#bg{
+	color:black;
+	margin-left:30px;
+	font-size:20px;
+	margin-top:5px;
+	padding-left: 80px;
+	padding-top: 25px;
+}
+#upload{
+	margin-left: 462px;
+	margin-top: 10px;
+}

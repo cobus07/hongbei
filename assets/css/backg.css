@@ -1,0 +1,34 @@
+/*backg begin*/
+*{
+	margin: 0;
+	padding: 0;
+}
+.backg{
+	width: 100%;
+	height: 188px;
+	background: url(../../uploads/user/20151229/backg.png);
+}
+.backg-1{
+	float: left;
+	width: 130px;
+	height: 130px;
+	border: 5px solid #fff;
+	border-radius: 100px;
+	margin-left: 14%;
+	margin-top: 115px;
+	position: relative;
+	z-index: 9;
+}
+.backg span{
+	float: left;
+	font-size: 27px;
+	color: #fff;
+	margin-left: 2%;
+	margin-top: 148px;
+}
+.backg-2{
+	float: left;
+	margin-left: 1%;
+	margin-top: 153px;
+}
+/*backg end*/

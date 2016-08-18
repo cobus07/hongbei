@@ -1,0 +1,175 @@
+/*public_part begin*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    border: none;
+}
+/*public_part over*/
+
+/*container begin*/
+.container{
+    margin: 0 auto;
+    width: 1169px;
+    min-height: 1070px;
+    background-color: #f3f3f3;
+}
+.clearfix:after{
+    visibility:hidden;
+    display:block;
+    font-size:0;
+    content: " ";
+    clear:both;
+    height:0;
+}
+.leftn{
+    position: absolute;
+}
+.left-nav-all{
+    margin-left: 34px;
+    margin-top: 90px;
+    float: left;
+}
+.content{
+    width: 832px;
+    background-color: white;
+    float: right;
+    margin-right: 33px;
+    margin-top: 90px;
+
+}
+.friend_num{
+    margin-left: 29px;
+    margin-top: 19px;
+    float: left;
+    font: 18px 微软雅黑;
+}
+.cont_head{
+    height: 46px;
+    margin-left: 9px;
+}
+.cont_head li{
+    float: left;
+    width: 119px;
+    height: 46px;
+    text-align: center;
+    font: 17px/46px 微软雅黑;
+    cursor: pointer;
+}
+.cont_head .selected{
+    color: #fba1a1;
+    border-bottom: 3px solid #fba1a1;
+}
+.content .search{
+    width: 199px;
+    height: 36px;
+    float: left;
+    margin-left: 317px;
+    margin-top: 10px;
+    font: 16px/36px 微软雅黑;
+    background-color: #f3f3f3;
+    border: none;
+    text-indent: 17px;
+    outline: none;
+}
+.content .btn{
+    width: 50px;
+    height: 36px;
+    float: left;
+    margin-top: 10px;
+    background: url(../img/frbtn_bac.png);
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.all_con{
+    width: 812px;
+    margin-left: 10px;
+    float: left;
+}
+.all_con .cont{
+    height: 158px;
+    width: 808px;
+    border-bottom: 2px solid #f3f3f3;
+}
+.all_con .left{
+    width: 102px;
+    float: left;
+    margin-top: 14px;
+}
+.left img{
+    margin-left: 8px;
+    margin-top: 4px;
+}
+.all_con .mid{
+    width: 507px;
+    float: left;
+    margin-top: 13px;
+}
+.all_con .right{
+    float: left;
+    margin-top: 14px;
+}
+.right button{
+    height: 35px;
+    width: 86px;
+    font: 16px 微软雅黑;
+    margin-right: 10px;
+    background-color: white;
+    border: 1px solid #f3f3f3;
+    cursor: pointer;
+    outline: none;
+}
+.msn li{
+    font: 17px 微软雅黑;
+    margin-bottom: 10px;
+}
+.mid span{
+    margin-left: 13px;
+    margin-top: 5px;
+}
+.click{
+    width: 84px;
+    height: 50px;
+    margin-left: 96px;
+    border: 1px solid #d7d7d7;
+    display: none;
+}
+.click li{
+    height: 25px;
+    text-align: center;
+    font: 15px/25px 微软雅黑;
+    color: #8e8e8e;
+    cursor: pointer;
+}
+.click li:hover{
+    background-color: #4ad8be;
+}
+.space{
+    width: 30px;
+    display: inline-block;
+}
+
+.hide{
+    display: none;
+}
+
+.load-btn{
+    background: #ccc;
+    text-align: center;
+    line-height: 10px;
+    cursor: pointer;
+}
+/*container over*/
+
+

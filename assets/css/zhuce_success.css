@@ -1,0 +1,194 @@
+#setname{
+    color: #fba1a1;
+    border-bottom-color: #fba1a1;
+}
+#message{
+    color: #fba1a1;
+    border-bottom-color: #fba1a1;
+}
+#success{
+    color: #fba1a1;
+    border-bottom-color: #fba1a1;
+}
+#bg{
+    background:url("../img/zhuce.png") no-repeat;
+   
+}
+#footerbg{
+    background:url("../img/footerbg.jpg") no-repeat;
+}
+.top{
+    display :block;
+    font-size:30px;
+    margin-left: 180px;
+    padding-top: 50px;
+    color: #fff;
+    border-bottom-style: solid;
+    border-bottom-width:thin;
+    width:250px;
+}
+.step li p{
+    font-size:18px;
+}
+#zhuce_baker{
+    margin-top:40px;
+    float: left;
+    margin-left: 37%;
+    width: 140px;
+    height: 40px;
+    background: #fba1a1;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+}
+#ok{
+    margin-top:40px;
+    float: left;
+    margin-left: 5%;
+    width: 140px;
+    height: 40px;
+    background: #fba1a1;
+    color: #fff;
+    font-size: 16px;
+    border:none;
+}
+.success{
+    color:#FFF;
+    font-size:20px;
+    text-align:center;
+    padding-top:120px;
+}
+#bgpic{
+    background:white;
+    height: 300px;
+    width: 70%;
+    position:absolute;
+    text-align: center;
+    left:50%;
+    margin-left:-35%;
+    opacity:0.2;
+    z-index:-1;
+}
+#contentid{
+        margin-top: 150px;
+        margin: 0 auto;
+        display: none;
+}
+#conbaker{
+    width:400px;
+    height:600px;
+    margin-left:37%;
+}
+.baker{
+    color:white;
+    font-size:30px;
+    margin-top: 170px;
+    margin-left: 18%;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    width: 850px;
+}
+.name{
+    font-size:18px;
+    margin-right:3%;
+    margin-left:-5%;
+}
+.notice{
+    width:50px;
+    font-size:18px;
+    margin-top: 10px;
+    color: white;
+}
+#a{
+   color: black;
+   margin-right: 3%;
+}
+.sex{
+    font-size:18px;
+    margin-right:3%;
+    margin-left:-5%;
+    margin-top:40px;
+    display:inline-block;
+}
+#male{
+    margin-left:20px;
+    padding-top:-20px;
+}
+.man{
+    display: inline-block;
+    padding-right: 10%;
+    padding-left:5%;
+}
+.women{
+    padding-left:5%;
+    display: inline-block;
+    padding-right:150px;
+}
+#b{
+    color: black;
+    margin-right: 3%;
+}
+.id_num{
+    font-size:18px;
+    margin-right:5%;
+    margin-left:-21%;
+    display:inline-block;
+}
+.id_check{
+    font-size:23px;
+    color:#000;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color:#fff;
+    margin-left:-40%;
+    width:760px;
+}
+.pic1{
+    color: #000;
+    font-size:18px;
+}
+.health_check{
+    font-size:23px;
+    color:#000;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color:#000;
+    margin-left:-40%;
+    width:760px;
+}
+.zige_check{
+    font-size:23px;
+    color:#000;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color:#000;
+    margin-left:-40%;
+    width:760px;
+}
+#pic_name{
+    margin-bottom:20px;
+    margin-left:3%;
+    width: 200px;
+    height: 30px;
+    color: #000;
+    font-size:18px;
+}
+#send{
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom:50px;
+    width: 140px;
+    height: 40px;
+    background: #fba1a1;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+}
+.red{
+    margin-left:-10%;
+}
+.id_name{
+    margin-left:-4%;
+
+}

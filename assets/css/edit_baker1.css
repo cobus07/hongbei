@@ -1,0 +1,259 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.container{
+	background-color:#f3f3f3;
+	width:1163px;
+	height:1200px;
+	margin: 0 auto; 	
+}
+.leftn{
+	position: absolute;
+	margin-top:90px;
+	margin-left: 35px;
+	 
+}
+.body-right{
+	background-color: white;
+	width:810px;
+	height:1000px;
+	float:right;
+	margin-right:30px;
+	margin-top:90px;
+}
+#color{list-style:none;}
+#change .ii{
+	background:#a5efde;
+	width:4px;
+	height: 20px;
+	margin-left:25px;
+	display:inline-block;
+}
+#change p{
+	font-size: 18px;
+	margin-top: 35px;
+	display: inline-block; /*块-行*/
+}
+#change span{
+	font-size: 18px;
+	margin-top: 35px;
+	margin-left: px;
+	color:#a5efde;
+}
+.load p{
+	margin-top: 35px;
+	font-size: 18px;
+	margin-left: 107px;
+}
+.nickname{
+	margin-top: 0px;
+	margin-left: 80px;
+	font-size: 18px;
+}
+.tel{
+	margin-top: 15px;
+	margin-left: 80px;
+	font-size: 18px;
+}
+.youxiang{
+	margin-top: 15px;
+	margin-left: 107px;
+	font-size: 18px;
+}
+.input{
+	height:25px;
+	margin-top: 15px;
+	margin-left: 107px;
+	font-size: 18px;
+}
+.sex{
+	margin-top: 25px;
+	margin-left: 80px;
+	font-size: 18px;
+}
+.profession{
+	margin-top: 15px;
+	margin-left: 107px;
+	font-size: 18px;
+}
+.ss{
+	width:200px;
+	height:30px;
+	font-size: 18px;
+}
+.pp{
+	text-align:center;
+}
+.ww{
+	text-align:center;
+}
+.sign{
+	margin-top:25px;
+	width:300px;
+	height:30px;
+	font-size: 18px;
+}
+.addr{
+	margin-top:105px;
+	width:300px;
+	height:30px;
+	font-size: 18px;
+}
+.is_city{
+	margin-top: 25px;
+	margin-left: 107px;
+	font-size: 18px;
+}
+.input .pp{
+	font-size: 18px;
+	width:80px;
+	height:30px;
+}
+.input .ww{
+	font-size: 18px;
+	width: 60px;
+	height:30px;
+}
+#input{
+	margin-top: 10px;
+	font-size: 18px;
+	margin-left: 100px;
+}
+#input p{
+	display: inline-block;
+	font-size: 18px;
+	color:#ccc;
+}
+#input .send{
+	margin-left: 180px;
+	font-color:white;
+}
+.button{
+	height:100px;
+	margin-bottom:200px;
+	margin-left: 300px;
+	margin-top: 15px;
+	border: none;
+}
+#col{
+	margin-left: 107px;
+	font-size: 18px;
+	display: inline-block;
+}
+#col p{
+	padding-top: 25px;
+	display: inline-block;
+}
+#color{
+	margin-top: 20px;
+	display: inline-block;
+}
+#col #color #a1{
+	width:20px;
+	height:20px;
+	display: inline-block;
+	background-color: #000000;
+}
+#col #color #a2{
+	width:20px;
+	height:20px;
+	display: inline-block;
+	background-color: #00ff00;
+}
+#col #color #a3{
+	width:20px;
+	height:20px;
+	display: inline-block;
+	background-color:#00ffff;
+}
+#col #color #a4{
+	width:20px;
+	height:20px;
+	background-color: #ffff33;
+	display: inline-block;
+}
+#col #color #a5{
+	width:20px;
+	height:20px;
+	background-color: #cc6600;
+	display: inline-block;
+}
+#col #color #a6{
+	width:20px;
+	height:20px;
+	background-color: #ff0000;
+	display: inline-block;
+}
+#col #color #a7{
+	width:20px;
+	height:20px;
+	background-color: #ff00ff;
+	display: inline-block;
+}
+#col #color #a8{
+	width:20px;
+	height:20px;
+	background-color: #000000;
+	display: inline-block;
+}
+#col #color #a9{
+	width:20px;
+	height:20px;
+	background-color: #00ff00;
+	display: inline-block;
+}
+#col #color #a10{
+	width:20px;
+	height:20px;
+	background-color: #00ffff;
+	display: inline-block;
+}
+#col #color #a11{
+	width:20px;
+	height:20px;
+	background-color: #ffff33;
+	display: inline-block;
+}
+#col #color #a12{
+	width:20px;
+	height:20px;
+	background-color: #cc6600;
+	display: inline-block;
+}
+#col #color #a13{
+	width:20px;
+	height:20px;
+	background-color: #ff0000;
+	display: inline-block;
+}
+#col #color #a14{
+	width:20px;
+	height:20px;
+	background-color: #ff00ff;
+	display: inline-block;
+}
+#bg{
+	color:black;
+	font-size:18px;
+	margin-left: 107px;
+	margin-top:200px;
+	
+}
+#pro{
+	color:black;
+	font-size:18px;
+	margin-left: 107px;
+	margin-top: 25px;
+}
+.button1 button{
+	margin-left:340px;
+	margin-top:7px;
+	border:none;
+}
+.button2 button{
+	margin-left:340px;
+	margin-top:7px;
+	border:none;
+}
+

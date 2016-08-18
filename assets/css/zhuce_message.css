@@ -1,0 +1,68 @@
+#bb{
+	width: 200px;
+	height: 30px;
+	color: black;
+	font-size:18px;
+	margin-left: 3%;
+	right:80%;
+}
+#setname{
+	color: #fba1a1;
+	border-bottom-color: #fba1a1;
+}
+#message{
+	color: #fba1a1;
+	border-bottom-color: #fba1a1;
+}
+#bg{
+    background:url("../img/zhuce.png") no-repeat;  
+}
+.top{
+    display :block;
+    font-size:30px;
+    margin-left: 14.5%;
+    padding-top: 4%;
+    color: #fff;
+    border-bottom-style: solid;
+    border-bottom-width:thin;
+    width:250px;
+}
+.step li a{
+    font-size:18px;
+}
+.font{
+    color: white;
+    display:inline;
+    z-index: 55;
+    font-size:18px;
+}
+#bgpic{
+    background:white;
+    height: 350px;
+    width: 70%;
+    position:absolute;
+    text-align: center;
+    left:50%;
+    margin-left:-35%;
+    opacity:0.2;
+    z-index:-1;
+}
+.next{
+    font-size: 20px;
+    line-height: 38px;
+}
+#c:hover{
+    cursor:pointer;
+}
+#name_tip{
+    color:white;
+}
+#pwd_tip{
+    color: white;
+}
+#psd1_tip{
+    color: white;
+}
+
+
+

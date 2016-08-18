@@ -1,0 +1,61 @@
+/*header begin*/
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	height: 52px;
+	width: 100%;
+	background: #fba1a1;
+}
+.hde{
+	width: 1083px;
+	margin: 0 auto;
+}
+.listd{
+	float: right;
+	line-height: 52px;
+}
+.listd-1 a,.listd-3 a,.listd-4 a,.listd-6 a,.listd-7 a,.listd-8 a,.listd-9 a,.listd-10 a{
+	color: #fff;
+	font-size: 11px;
+}
+.listd-1,.listd-8,.listd-9{
+	margin-left: 10px;
+}
+.listd-2{
+	display: inline-block;
+	width: 100px;
+	height: 84px;
+	background: url(../img/zyd.png);
+}
+.listd-2 a{
+	color: #fba1a1;
+	font-size: 18px;
+	margin-left: 25px;
+}
+.listd-3{
+	margin-left: 15px;
+}
+.listd-5{
+	display: inline-block;
+	width: 5px;
+	height: 5px;
+	background: url(../img/diand.png);
+	margin-left: 10px;
+}
+.listd-4,.listd-10{
+	margin-right: 35px;
+}
+.listd-6{
+	margin-left: 25px;
+}
+.listd-7{
+	margin-left: 25px;
+}
+
+
+/*header end*/

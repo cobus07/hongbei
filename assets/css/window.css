@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 2000px;
+}
+.window-wrap{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.window-mask{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+.window-container{
+    width: 550px;
+    height: 350px;
+    background: white;
+    position: fixed;
+    z-index: 3;
+    margin: 0 auto;
+    left: 50%;
+    top: 50%;
+}
+.window-title{
+    height: 38px;
+    background: #fc7d7d;
+    color: white;
+    line-height: 38px;
+    text-indent: 20px;
+
+}
+.window-close{
+    float: right;
+    font: 20px/34px Calibri;
+    margin-right: 14px;
+    cursor: pointer;
+    /*color: white;*/
+}

@@ -1,0 +1,244 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.body-right{
+	background-color: white;
+	width:810px;
+	height:1250px;
+	margin-left: 305px;
+	/*margin-top: 92px;*/
+	/*padding-top: 92px;*/
+	/*border-radius: 5px;*/
+}
+.right-header{
+	width:830px;
+	height:333px;
+	background-color: #f3f3f3;
+}
+#change p{
+	font-size: 20px;
+	padding-top: 35px;
+	padding-left: 20px;
+	display: inline-block; /*块-行*/
+}
+#change span{
+	font-size: 20px;
+	padding-top: 35px;
+	padding-left: px;
+	color:#00ffff;
+}
+.load p{
+	padding-top: 35px;
+	font-size: 20px;
+	padding-left: 110px;
+}
+.nickname{
+	padding-top: 0px;
+	padding-left: 80px;
+	font-size: 20px;
+}
+.tel{
+	padding-top: 15px;
+	padding-left: 80px;
+	font-size: 20px;
+}
+.youxiang{
+	padding-top: 15px;
+	padding-left: 110px;
+	font-size: 20px;
+}
+.input{
+	height:25px;
+	padding-top: 15px;
+	padding-left: 110px;
+	font-size: 20px;
+}
+.sex{
+	padding-top: 25px;
+	padding-left: 80px;
+	font-size: 20px;
+}
+.profession{
+	padding-top: 15px;
+	padding-left: 110px;
+	font-size: 20px;
+}
+.ss{
+	width:200px;
+	height:30px;
+	font-size: 20px;
+}
+.sign{
+	margin-top:25px;
+	width:300px;
+	height:70px;
+	font-size: 20px;
+}
+.addr{
+	margin-top:105px;
+	width:300px;
+	height:70px;
+	font-size: 20px;
+}
+.is_city{
+	padding-top: 25px;
+	padding-left: 110px;
+	font-size: 20px;
+}
+/*.input span{
+	font-size: 10px;
+	border-bottom: 1px;
+}*/
+.input .pp{
+	font-size: 20px;
+	width:80px;
+	height:30px;
+}
+.input .ww{
+	font-size: 20px;
+	width: 60px;
+	height:30px;
+}
+#input{
+	padding-top: 10px;
+	font-size: 20px;
+	padding-left: 100px;
+}
+#input p{
+	display: inline-block;
+	font-size: 20px;
+	color:#ccc;
+}
+#input .send{
+	padding-left: 180px;
+	font-color:white;
+}
+.button{
+	height:100px;
+	margin-bottom:200px;
+	margin-left: 300px;
+	margin-top: 15px;
+}
+#col{
+	padding-left: 110px;
+	font-size: 20px;
+	display: inline-block;
+}
+#col p{
+	padding-top: 25px;
+	display: inline-block;
+}
+#color{
+	padding-top: 20px;
+	display: inline-block;
+}
+#col #color #a1{
+	width:20px;
+	height:20px;
+	display: inline-block;
+	background-color: #000000;
+}
+#col #color #a2{
+	width:20px;
+	height:20px;
+	display: inline-block;
+	background-color: #00ff00;
+}
+#col #color #a3{
+	width:20px;
+	height:20px;
+	display: inline-block;
+	background-color:#00ffff;
+}
+#col #color #a4{
+	width:20px;
+	height:20px;
+	background-color: #ffff33;
+	display: inline-block;
+}
+#col #color #a5{
+	width:20px;
+	height:20px;
+	background-color: #cc6600;
+	display: inline-block;
+}
+#col #color #a6{
+	width:20px;
+	height:20px;
+	background-color: #ff0000;
+	display: inline-block;
+}
+#col #color #a7{
+	width:20px;
+	height:20px;
+	background-color: #ff00ff;
+	display: inline-block;
+}
+#col #color #a8{
+	width:20px;
+	height:20px;
+	background-color: #000000;
+	display: inline-block;
+}
+#col #color #a9{
+	width:20px;
+	height:20px;
+	background-color: #00ff00;
+	display: inline-block;
+}
+#col #color #a10{
+	width:20px;
+	height:20px;
+	background-color: #00ffff;
+	display: inline-block;
+}
+#col #color #a11{
+	width:20px;
+	height:20px;
+	background-color: #ffff33;
+	display: inline-block;
+}
+#col #color #a12{
+	width:20px;
+	height:20px;
+	background-color: #cc6600;
+	display: inline-block;
+}
+#col #color #a13{
+	width:20px;
+	height:20px;
+	background-color: #ff0000;
+	display: inline-block;
+}
+#col #color #a14{
+	width:20px;
+	height:20px;
+	background-color: #ff00ff;
+	display: inline-block;
+}
+#bg{
+	color:black;
+	margin-left:30px;
+	font-size:20px;
+	padding-left: 80px;
+	margin-top:200px;
+	
+}
+#pro{
+	color:black;
+	margin-left:30px;
+	font-size:20px;
+	margin-top:5px;
+	padding-left: 80px;
+	padding-top: 25px;
+}
+.button1{
+	margin-left:350px;
+	margin-top:7px;
+	
+}
+.button2{
+	margin-left:350px;
+	margin-top:7px;
+}

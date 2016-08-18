@@ -1,0 +1,243 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+.container{
+	width: 1171px;
+	height: 1000px;
+	background: #f3f3f3;
+	margin: 0 auto;
+	padding-top: 12px;
+}
+.container #nav{
+	width: 100%;
+	height: 50px;
+	background-color: #006fd7;
+}
+#nav li{
+	float: left;
+	width: 120px;
+	height: 100%;
+	line-height: 50px;
+	text-align: center;
+	border-right: 1px solid #4498e5;
+}
+#nav li a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	color: #fff;
+	font-size: 14px;
+}
+#nav #flow{
+	background-color: #4498e5;
+}
+#content{
+	margin-top: 30px;
+}
+#left{
+	float: left;
+}
+#left #title{
+	width: 265px;
+	height: 40px;
+	background-color: #fba1a1;
+	color: #fff;
+	line-height: 40px;
+	margin-left: 17px;
+	text-indent: 28px;
+}
+#left #left-nav{
+	width: 263px;
+	background-color: #fff;
+	margin-left: 17px;
+	border: 1px solid #bbbbbb;
+	border-top: none;
+}
+#left-nav span{
+	color: #f68787;
+	float: right;
+	margin-right: 14px;
+}
+#left-nav ul{
+	width: 236px;
+	height: 100%;
+	margin: 0 auto;
+}
+#left-nav ul li{
+	width: 100%;
+	height: 45px;
+	text-indent: 17px;
+	border-bottom: 1px solid #f68787;
+}
+#left-nav ul li a{
+	width: 100%;
+	height: 100%;
+	line-height: 45px;
+	color: #f68787;
+}
+#left-nav #sent{
+	border-bottom: 1px solid #dbdada;
+}
+#left-nav #sent a{
+	color: #747272;
+}
+/*订单查询*/
+.sec-order{
+	width: 841px;
+	height: 217px;
+	float: right;
+	margin-right: 25px;
+	background: #fff;
+}
+.sec-nav{
+	width: 99.8%;
+	height: 41px;
+	background: #dacdef;
+	border: 1px solid #a593c2;
+}
+.sec-nav span{
+	line-height: 41px;
+	margin-left: 30px;
+	color: #8d70ba;
+	font-size: 14px;
+}
+.sec-table{
+	margin-left: 33px;
+	margin-top: 18px;
+}
+.sec-table td{
+	height: 35px;
+}
+.st-1,.st-3{
+	color: #151515;
+	font-size: 14px;
+}
+.st-1 input{
+	/*width: 146px;*/
+	height: 18px;
+}
+.st-3 input{
+	width: 74px;
+	height: 18px;
+}
+.st-2 button{
+	width: 130px;
+	height: 28px;
+	background: #4ad8be;
+	color: #fff;
+	border-radius: 5px;
+	border: none;
+	cursor: pointer;
+}
+/*订单列表开始*/
+#trade{
+	width: 842px;
+	margin-top: 13px;
+	margin-right: 25px;
+	background-color: #fff;
+	float: right;
+}
+.order-list{
+	width: 842px;
+	background-color: #fff;
+	float: right;
+}
+.order-list .order{
+	width: 100%;
+	/*height: 157px;*/
+	border: 1px solid #bbbbbb;
+}
+.order-list .order-num{
+	width: 100%;
+	height: 40px;
+	background-color: #fdcaca;
+	border-bottom: 1px solid #bbbbbb;
+}
+.order-list .order-num span{
+	display: block;
+	height: 100%;
+	float: left;
+	line-height: 40px;
+	font-size: 13px;
+	margin-left: 15px;
+	color: #727272;
+}
+.order-list .order .order-content{
+	width: 420px;
+	height: 116px;
+	float: left;
+	font-size: 13px;
+	color: #3c3c3c;
+	border-right: 1px solid #bbbbbb;
+	position: relative;			
+}
+.order-list .order-information{
+	width: 421px;
+	height: 116px;
+	float: left;
+	font-size: 13px;
+	color: #3c3c3c;
+	border-right: none;
+}
+.order-content .buy{
+	width: 74px;
+	height: 74px;
+	float: left;
+	margin-left: 18px;
+	margin-top: 14px;
+}
+.order-content .buy img{
+	width: 100%;
+	height: 100%;
+}
+.order-content p{
+	width: 290px;
+	float: right;
+	margin-right: 24px;
+	margin-top: 14px;
+	line-height: 20px;
+}
+.order-content span{
+	display: block;
+	position: absolute;
+	right: 55px;
+	bottom: 33px;
+}
+.order-information table{
+	padding-left: 15px;
+	padding-top: 15px;
+	line-height: 15px;
+}
+.order-information table td{
+	valign: top;	
+}
+.order-information table .name{
+	width: 68px;
+}
+.order-information table .value{
+	width: 268px;
+	line-height: 16px;
+}
+.order-list .btn{
+	width: 843px;
+	height: 50px;
+	background-color: #fff;
+}
+.order-list .btn button{
+	width: 77px;
+	height: 27px;
+	background-color: #70b4f3;
+	border: 1px solid #006fd7;
+	border-radius: 3px;
+	float: right;
+	margin-top: 7px;
+	color: #fff;
+	cursor: pointer;
+}

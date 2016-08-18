@@ -1,0 +1,295 @@
+*{
+	font-size: 14px;
+}
+
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+
+/*内容区*/
+#container{
+	width: 1173px;
+	height: 2000px;
+	background-color: #f9f9f9;
+	z-index: -1;
+	margin: 0 auto;
+}
+
+/*个性签名*/
+#container .per-sign{
+	margin-left: 242px;
+	color: #8b8b8b;
+}
+#container .per-sign span{
+	font-size: 18px;
+}
+
+/*左侧以及种类列表*/
+#left{
+	width: 265px;
+	background-color: #fff;
+	position: absolute;
+	margin-left: 25px;
+	margin-top: 92px;
+	font-size: 18px;
+}
+#left #all-category{
+	width: 100%;
+	height: 46px;
+	line-height: 46px;
+	text-indent: 35px;
+	background-color: #8fe8d2;
+	color: #41c7a6;
+	border-bottom: 1px solid #fff;
+}
+#left #category{
+	width: 100%;
+	background-color: #8fe8d2;
+}
+#left #category .category1{
+	width: 100%;
+	height: 38px;
+	line-height: 38px;
+	text-indent: 20px;
+	color: #fff;
+	background-color: #8fe8d2;
+	border-bottom: 1px solid #fff;
+}
+
+#left #category .selected{
+	width: 100%;
+	height: 38px;
+	line-height: 38px;
+	text-indent: 20px;
+	color: #8fe8d2;
+	background-color: #fff;
+}
+/*条件查找块*/
+#search{
+	width: 836px;
+	background-color: #fff;
+	float: right;
+	margin-right: 25px;
+	margin-top: 92px;
+}
+#search .list .search-list{
+	width: 100%;
+	height: 45px;
+	border-bottom: 1px solid #d6d6d6;
+	line-height: 45px;
+	color: #6b6b6b;
+}
+#cate img{
+	line-height: 45px;
+}
+#search #all{
+	font-size: 18px;
+	text-indent: 20px;
+}
+#search .list .category2{
+	display: block;
+	float: left;
+	text-indent: 20px;
+}
+#search .list .category2 a{
+	margin-right: 30px;
+	color: #6b6b6b;	
+}
+#search #more, #search #sort{
+	border: none;
+}
+#search .list #more{
+	display: block;
+	width: 142px;
+	height: 27px;
+	background-color: #8766bc;
+	color: #fff;
+	line-height: 27px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	text-indent: 42px;
+	cursor: pointer;
+}
+#search #search-result{
+	background-color: #fdd5d5;
+	color: #636363;
+	border: none;
+}
+#search #search-result p{
+	display: block;
+	height: 27px;
+	font-size: 15px;
+	text-indent: 40px;
+	float: left;
+	margin-right: 49px;
+}
+#search #search-result #key{
+	width: 128px;
+	height: 23px;
+	margin-top: 9px;
+	margin-right: 15px;
+}
+#search #search-result .search-price{
+	width: 49px;
+	height: 23px;
+	margin-top: 9px;
+}
+#search #search-result #btn{
+	width: 86px;
+	height: 25px;
+	margin-top: 9px;
+	margin-left: 13px;
+	background-color: #8fe8d2;
+	color: #fff;
+    font-size: 15px;
+	border: none;
+	cursor: pointer;
+}
+#search #rank{
+	margin-left: 25px;
+}
+#search #rank li{
+	width: 70px;
+	text-indent: 0px;
+	text-align: center;
+	color: #a1a1a1;
+}
+#search #rank li a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	color: #a1a1a1;
+}
+/*蛋糕列表*/
+#content{
+	width: 858px;
+	float: right;
+	margin-right: 25px;
+}
+#content .cake{
+	width: 264px;
+	height: 460px;
+	background-color: #fff;
+	float: left;
+	margin-left: 22px;
+	margin-top: 22px;
+}
+.cake .my-cake{
+	width: 100%;
+	height: 264px;
+}
+.row-1{
+	height: 88px;
+}
+.row-1 span{
+	color: #f88181;
+	font-size: 24px;
+	display: block;
+	padding-top: 5px;
+	margin-left: 12px;
+	margin-bottom: 0px;
+}
+.row-1 p{
+	height: 40px;
+	margin-left: 12px;
+	margin-top: 5px;
+	font-size: 16px;
+	line-height: 20px;
+	
+}
+.row-1 p a{
+	color: #111111;
+}
+
+.row-2{
+	height: 18px;
+	padding-left: 18px;
+}
+.row-2 span{
+	font-size: 17px;
+	font-weight: bold;
+	color: #515151;
+}
+.row-2 span strong{
+	font-size: 17px;
+	color: #76e4c8;
+}
+.row-2-i{
+	display: inline-block;
+	width: 1px;
+	height: 9px;
+	margin-left: 5px;}
+.row-2-I{
+	display: inline-block;
+	width: 13px;
+	height: 12px;
+	margin-left: 10px;
+	margin-top: 2px;
+	cursor: pointer;
+}
+.row-3{
+	font-size: 16px;
+	height: 25px;
+	color: #8d8d8d;
+	padding: 10px 0px 10px 10px;
+}
+.cake .row-3-i{
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	float: left;
+}
+.cake .row-3-i img{
+	width: 100%;
+	height: 100%;
+}
+.row-3 .baker-name{
+	display: inline-block;
+	float: left;
+	margin-right: 15px;
+}
+
+.row-3 .baker-city{
+	display: inline-block;
+	margin-right: 20px;
+	line-height: 28px;
+	float: right;
+}
+
+.row-3 span a{
+	font-weight: bold;
+	color: #8d8d8d;
+	font-size: 15px;
+	line-height: 28px;
+	display: inline-block;
+}
+.row-4{
+	margin-top: 5px;
+}
+.row-4 span{
+	padding: 5px 14px;
+	border-radius: 20px;
+	font-size: 15px;
+	color: #fff;
+}
+.row-4 .order{
+	margin-left: 12px; 
+	background: #f88181;
+}
+.row-4 .sale{
+	background: #8766bc;
+}
+.list .click{
+	display: block;
+	float: left;
+	line-height: 35px;
+	width: 110px;
+	background-color: #8fe8d2;
+	cursor: pointer;
+	border-radius: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+}

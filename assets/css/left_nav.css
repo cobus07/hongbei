@@ -1,0 +1,67 @@
+/*公共部分begin*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul,li{
+    list-style: none;
+}
+
+img{
+    border: none;
+}
+
+a{
+    text-decoration: none;
+}
+/*公共部分over*/
+
+/*left-nav部分begin*/
+.left-nav-all{
+    height: 850px;
+    width: 250px;
+}
+.left-nav{
+    height: 424px;
+    width: 248px;
+}
+.left-nav li{
+    width: 248px;
+    height: 53px;
+    background-color: #fba1a1;
+}
+.left-nav img{
+    float: left;
+    margin-left: 22px;
+    margin-top: 18px;
+}
+.left-nav a{
+     width: 248px;
+     height: 53px;
+     float: left;
+ }
+.left-nav a:hover{
+    width: 242px;
+    border-left: 6px solid #a0ecd9;
+    background-color: #fc7d7d;
+}
+.left-nav .span1{
+    width: 20px;
+    height: 19px;
+    float: left;
+    margin-left: 38px;
+    margin-top: 18px;
+    background: url(../img/leftnav_logo.png);
+}
+.left-nav .span2{
+    width: 72px;
+    float: left;
+    margin-left: 27px;
+    margin-top: 18px;
+    color: white;
+}
+.left-nav-girl{
+    margin-top: 21px;
+}
+/*left-nav部分over*/
